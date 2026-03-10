@@ -1,4 +1,4 @@
-This Weather Information App is a Java desktop application built with JavaFX that allows users to search for real-time weather information for different cities. The app connects to a weather API, retrieves live data, and displays important details like temperature, weather conditions, and icons that represent the current forecast.
+(Built in 2025) This Weather Information App is a Java desktop application built with JavaFX that allows users to search for real-time weather information for different cities. The app connects to a weather API, retrieves live data, and displays important details like temperature, weather conditions, and icons that represent the current forecast.
 This project was built to practice working with APIs, building graphical user interfaces, and handling real-world programming issues like API errors and data parsing.
 
 Features
